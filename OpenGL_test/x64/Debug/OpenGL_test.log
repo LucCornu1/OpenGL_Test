@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\thewi\source\repos\OpenGL_test\OpenGL_test\main.cpp(49,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\thewi\source\repos\OpenGL_test\OpenGL_test\main.cpp(50,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\thewi\source\repos\OpenGL_test\OpenGL_test\main.cpp(51,20): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  OpenGL_test.vcxproj -> C:\Users\thewi\source\repos\OpenGL_test\x64\Debug\OpenGL_test.exe
